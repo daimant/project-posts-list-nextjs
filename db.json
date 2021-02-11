@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "JavaScript Post 1",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusamus accusantium adipisci aliquam amet aut, beatae blanditiis, consectetur corporis cumque dignissimos dolorum est excepturi exercitationem facere facilis fugiat impedit incidunt ipsum laborum nobis provident quisquam recusandae saepe vero voluptatibus, voluptatum. Ab aspernatur at delectus eligendi, fugiat ipsa iste laboriosam mollitia nam, necessitatibus perferendis repudiandae saepe vitae? Amet error eveniet molestiae quibusdam, rem tempora vel veniam veritatis voluptas voluptate. Aperiam cum exercitationem inventore sunt suscipit totam voluptas! Eius, nesciunt, possimus! Accusamus cum cumque doloribus eveniet ex modi molestiae nulla rem totam ullam. Corporis cumque doloremque eveniet numquam placeat quia sapiente tempora?"
+    },
+    {
+      "id": "2",
+      "title": "JavaScript Post 2",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet esse id, non officiis sequi velit?"
+    },
+    {
+      "id": "3",
+      "title": "JavaScript Post 3",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae consectetur fugiat iste pariatur quasi veniam voluptatibus!"
+    }
+  ]
+}
